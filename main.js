@@ -1,4 +1,4 @@
-// ======== Constants ========
+// ======== Constants ========.
 const CIRCLE_RADIUS = 400;
 const IMAGE_SIZE = 120;
 const ANIMATION_FRAMES = 180; // 3 seconds at 60fps.

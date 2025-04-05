@@ -162,7 +162,7 @@ class DecorativeStar extends YellowStar {
 
     triggerSupernova() {
         if (!this.isDead && !this.isSupernova) {
-            this.isSupernova = true;
+            this.isSupernova = true; 
             this.supernovaStartFrame = frameCount;
         }
     }
